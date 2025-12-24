@@ -4,7 +4,7 @@
 
 <div align="center">
   <br />
-  <b>`B A C K E N D  |  J A V A  S T U D E N T`</b>
+  <b>`B A C K E N D  |  J A V A   S T U D E N T`</b>
   <samp>
       <br />
       Seja bem-vindo ao meu universo de código!
@@ -24,22 +24,26 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividades
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bauumgarten&show_icons=true&theme=maroongold&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauumgarten&layout=compact&theme=maroongold&hide_border=true&title_color=f4cd7c" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bauumgarten&theme=dracula" alt="Resumo do Perfil" />
+  
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Bauumgarten&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 <div align="center">
   <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bauumgarten&theme=dracula&bg_color=0d1117&color=755b25&line=f4cd7c&point=ffffff&area=true&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Bauumgarten&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ### 🐍 Snake Game
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bauumgarten/Bauumgarten/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Bauumgarten/Bauumgarten/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
