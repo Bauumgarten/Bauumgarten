@@ -1,51 +1,63 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=755b25&height=200&section=header&text=Olá,%20sou%20o%20Raul!&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bauumgarten&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Estatísticas do GitHub" /> 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bauumgarten&layout=compact&langs_count=7&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Linguagens mais usadas" />
+  <br />
+  <b>`B A C K E N D  |  J A V A  S T U D E N T`</b>
+  <samp>
+      <br />
+      Seja bem-vindo ao meu universo de código!
+  </samp>
 </div>
 
-<br />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jquery logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Focado+em+Java+e+Spring+Boot;Transformando+ideias+em+soluções;Estudante+de+Desenvolvimento+de+Sistemas" alt="Typing SVG"/>
 </div>
 
-<br />
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh0ZjNuMXcxaHljdWloOXZpNjFzOTR0ZTJraHRja3FnZzQzMW5waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif" />
+### 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,jquery,postgres,git,idea,vscode&theme=dark" />
+</div>
 
-<div align="left">
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bauumgarten&show_icons=true&theme=maroongold&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauumgarten&layout=compact&theme=maroongold&hide_border=true&title_color=f4cd7c" />
+</div>
+
+<div align="center">
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bauumgarten&theme=dracula&bg_color=0d1117&color=755b25&line=f4cd7c&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Snake Game
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bauumgarten/Bauumgarten/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="center">
   <a href="https://www.instagram.com/bauumgarten/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
   <a href="mailto:raulbauumgarten@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/raul-baumgarten-55502b1a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bauumgarten/Bauumgarten/output/snake.svg" alt="Snake animation" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Bauumgarten&style=flat-square&color=755b25&label=PERFIL+VISITADO" />
 </div>
