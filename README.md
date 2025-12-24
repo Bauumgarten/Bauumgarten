@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Focado+em+Java+e+Spring+Boot;Transformando+ideias+em+soluções;Estudante+de+Desenvolvimento+de+Sistemas" alt="Typing SVG"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0ajZxeGtmYzI4MmJsbDl6cnI3bzdsMHp3ZHlpeTRib3hoc3NtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Typing SVG" width="200px" height="150px"/>
 </div>
 
 ---
