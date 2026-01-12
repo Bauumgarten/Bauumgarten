@@ -11,6 +11,20 @@
   </samp>
 </div>
 
+---
+
+<div align="left">
+  Sou um entusiasta do ecossistema <b>Java</b> e apaixonado por construir sistemas escaláveis e eficientes. Atualmente, foco meus estudos no desenvolvimento de APIs robustas utilizando <b>Spring Boot</b> e na implementação de boas práticas como Clean Code e SOLID.
+  <br/><br/>
+  🔍 <b>No que estou focado:</b>
+  - Desenvolvimento de Microserviços e APIs REST.
+  - Persistência de dados com PostgreSQL e Hibernate.
+  - Automação de processos e arquitetura de software.
+  - Aprendizado contínuo sobre infraestrutura e Cloud.
+</div>
+
+---
+
 <div align="center" width="100%">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0ajZxeGtmYzI4MmJsbDl6cnI3bzdsMHp3ZHlpeTRib3hoc3NtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Typing SVG" width="200px" height="150px"/>
 </div>
@@ -34,8 +48,10 @@
 
 <div align="center">
   <br />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Bauumgarten&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bauumgarten&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
 </div>
+
+---
 
 ---
 
